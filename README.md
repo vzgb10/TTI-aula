@@ -1,2 +1,2 @@
 # TTI-aula
-exercicios de aula
+repositório de banco de dados da pucc
